@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Gen-AI**
 
-- 🌱 I’m currently learning **Certification in Cyber Security**
+- 🌱 I’m currently learning **AWS Cloud Practitioner**
 
-- 📫 How to reach me **akshayak7788@gmail.com**
+- 📫 How to reach me **personalakshay17@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
